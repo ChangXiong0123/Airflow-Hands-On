@@ -1,0 +1,288 @@
+[2021-07-22 02:03:56,753] {scheduler_job.py:182} INFO - Started process (PID=48189) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:03:56,779] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:03:56,782] {logging_mixin.py:104} INFO - [2021-07-22 02:03:56,782] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:03:57,196] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:04:01,139] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:04:01,295] {logging_mixin.py:104} INFO - [2021-07-22 02:04:01,294] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:04:01,435] {logging_mixin.py:104} INFO - [2021-07-22 02:04:01,435] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:04:01,501] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 4.767 seconds
+[2021-07-22 02:04:32,377] {scheduler_job.py:182} INFO - Started process (PID=48489) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:04:32,379] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:04:32,380] {logging_mixin.py:104} INFO - [2021-07-22 02:04:32,380] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:04:32,422] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:04:32,839] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:04:32,858] {logging_mixin.py:104} INFO - [2021-07-22 02:04:32,858] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:04:32,870] {logging_mixin.py:104} INFO - [2021-07-22 02:04:32,869] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:04:32,876] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.502 seconds
+[2021-07-22 02:05:03,314] {scheduler_job.py:182} INFO - Started process (PID=48535) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:05:03,316] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:05:03,317] {logging_mixin.py:104} INFO - [2021-07-22 02:05:03,317] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:05:03,357] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:05:03,752] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:05:03,772] {logging_mixin.py:104} INFO - [2021-07-22 02:05:03,771] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:05:03,784] {logging_mixin.py:104} INFO - [2021-07-22 02:05:03,784] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:05:03,791] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.479 seconds
+[2021-07-22 02:05:33,847] {scheduler_job.py:182} INFO - Started process (PID=48574) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:05:33,849] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:05:33,849] {logging_mixin.py:104} INFO - [2021-07-22 02:05:33,849] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:05:33,890] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:05:34,328] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:05:34,349] {logging_mixin.py:104} INFO - [2021-07-22 02:05:34,349] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:05:34,363] {logging_mixin.py:104} INFO - [2021-07-22 02:05:34,362] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:05:34,370] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.526 seconds
+[2021-07-22 02:06:05,348] {scheduler_job.py:182} INFO - Started process (PID=48611) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:06:05,350] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:06:05,352] {logging_mixin.py:104} INFO - [2021-07-22 02:06:05,351] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:06:05,396] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:06:05,832] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:06:05,852] {logging_mixin.py:104} INFO - [2021-07-22 02:06:05,851] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:06:05,863] {logging_mixin.py:104} INFO - [2021-07-22 02:06:05,863] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:06:05,877] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.532 seconds
+[2021-07-22 02:06:36,768] {scheduler_job.py:182} INFO - Started process (PID=48670) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:06:36,770] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:06:36,771] {logging_mixin.py:104} INFO - [2021-07-22 02:06:36,771] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:06:36,815] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:06:37,231] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:06:37,250] {logging_mixin.py:104} INFO - [2021-07-22 02:06:37,250] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:06:37,261] {logging_mixin.py:104} INFO - [2021-07-22 02:06:37,261] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:06:37,269] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.504 seconds
+[2021-07-22 02:07:08,221] {scheduler_job.py:182} INFO - Started process (PID=48708) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:07:08,224] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:07:08,226] {logging_mixin.py:104} INFO - [2021-07-22 02:07:08,226] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:07:08,277] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:07:08,697] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:07:08,716] {logging_mixin.py:104} INFO - [2021-07-22 02:07:08,716] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:07:08,729] {logging_mixin.py:104} INFO - [2021-07-22 02:07:08,729] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:07:08,744] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.531 seconds
+[2021-07-22 02:07:39,636] {scheduler_job.py:182} INFO - Started process (PID=48747) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:07:39,637] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:07:39,638] {logging_mixin.py:104} INFO - [2021-07-22 02:07:39,638] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:07:39,677] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:07:40,051] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:07:40,071] {logging_mixin.py:104} INFO - [2021-07-22 02:07:40,071] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:07:40,083] {logging_mixin.py:104} INFO - [2021-07-22 02:07:40,083] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:07:40,100] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.467 seconds
+[2021-07-22 02:08:10,145] {scheduler_job.py:182} INFO - Started process (PID=48784) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:08:10,147] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:08:10,148] {logging_mixin.py:104} INFO - [2021-07-22 02:08:10,148] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:08:10,211] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:08:10,719] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:08:10,745] {logging_mixin.py:104} INFO - [2021-07-22 02:08:10,744] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:08:10,763] {logging_mixin.py:104} INFO - [2021-07-22 02:08:10,762] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:08:10,775] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.634 seconds
+[2021-07-22 02:08:41,623] {scheduler_job.py:182} INFO - Started process (PID=48825) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:08:41,625] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:08:41,626] {logging_mixin.py:104} INFO - [2021-07-22 02:08:41,626] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:08:41,663] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:08:42,047] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:08:42,068] {logging_mixin.py:104} INFO - [2021-07-22 02:08:42,067] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:08:42,079] {logging_mixin.py:104} INFO - [2021-07-22 02:08:42,079] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:08:42,085] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.465 seconds
+[2021-07-22 02:09:13,066] {scheduler_job.py:182} INFO - Started process (PID=48862) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:09:13,067] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:09:13,068] {logging_mixin.py:104} INFO - [2021-07-22 02:09:13,068] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:09:13,115] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:09:13,547] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:09:13,567] {logging_mixin.py:104} INFO - [2021-07-22 02:09:13,567] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:09:13,581] {logging_mixin.py:104} INFO - [2021-07-22 02:09:13,581] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:09:13,588] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.525 seconds
+[2021-07-22 02:09:43,625] {scheduler_job.py:182} INFO - Started process (PID=48918) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:09:43,627] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:09:43,630] {logging_mixin.py:104} INFO - [2021-07-22 02:09:43,630] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:09:43,692] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:09:44,208] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:09:44,228] {logging_mixin.py:104} INFO - [2021-07-22 02:09:44,228] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:09:44,241] {logging_mixin.py:104} INFO - [2021-07-22 02:09:44,241] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:09:44,256] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.635 seconds
+[2021-07-22 02:10:15,021] {scheduler_job.py:182} INFO - Started process (PID=48991) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:10:15,023] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:10:15,024] {logging_mixin.py:104} INFO - [2021-07-22 02:10:15,024] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:10:15,063] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:10:15,519] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:10:15,539] {logging_mixin.py:104} INFO - [2021-07-22 02:10:15,538] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:10:15,551] {logging_mixin.py:104} INFO - [2021-07-22 02:10:15,551] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:10:15,565] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.547 seconds
+[2021-07-22 02:10:46,454] {scheduler_job.py:182} INFO - Started process (PID=49087) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:10:46,456] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:10:46,457] {logging_mixin.py:104} INFO - [2021-07-22 02:10:46,456] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:10:46,498] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:10:46,906] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:10:46,925] {logging_mixin.py:104} INFO - [2021-07-22 02:10:46,925] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:10:46,936] {logging_mixin.py:104} INFO - [2021-07-22 02:10:46,936] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:10:46,952] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.501 seconds
+[2021-07-22 02:11:17,887] {scheduler_job.py:182} INFO - Started process (PID=49162) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:11:17,888] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:11:17,890] {logging_mixin.py:104} INFO - [2021-07-22 02:11:17,890] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:11:17,930] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:11:18,348] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:11:18,366] {logging_mixin.py:104} INFO - [2021-07-22 02:11:18,366] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:11:18,378] {logging_mixin.py:104} INFO - [2021-07-22 02:11:18,378] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:11:18,385] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.503 seconds
+[2021-07-22 02:11:49,303] {scheduler_job.py:182} INFO - Started process (PID=49205) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:11:49,305] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:11:49,306] {logging_mixin.py:104} INFO - [2021-07-22 02:11:49,306] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:11:49,343] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:11:49,727] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:11:49,746] {logging_mixin.py:104} INFO - [2021-07-22 02:11:49,746] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:11:49,758] {logging_mixin.py:104} INFO - [2021-07-22 02:11:49,758] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:11:49,767] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.466 seconds
+[2021-07-22 02:12:20,736] {scheduler_job.py:182} INFO - Started process (PID=49267) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:12:20,738] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:12:20,739] {logging_mixin.py:104} INFO - [2021-07-22 02:12:20,739] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:12:20,776] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:12:21,184] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:12:21,219] {logging_mixin.py:104} INFO - [2021-07-22 02:12:21,218] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:12:21,232] {logging_mixin.py:104} INFO - [2021-07-22 02:12:21,232] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:12:21,241] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.509 seconds
+[2021-07-22 02:12:52,239] {scheduler_job.py:182} INFO - Started process (PID=49335) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:12:52,241] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:12:52,242] {logging_mixin.py:104} INFO - [2021-07-22 02:12:52,242] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:12:52,279] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:12:52,696] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:12:52,716] {logging_mixin.py:104} INFO - [2021-07-22 02:12:52,716] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:12:52,728] {logging_mixin.py:104} INFO - [2021-07-22 02:12:52,728] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:12:52,743] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.507 seconds
+[2021-07-22 02:13:23,735] {scheduler_job.py:182} INFO - Started process (PID=49396) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:13:23,737] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:13:23,738] {logging_mixin.py:104} INFO - [2021-07-22 02:13:23,738] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:13:23,780] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:13:24,251] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:13:24,278] {logging_mixin.py:104} INFO - [2021-07-22 02:13:24,278] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:13:24,298] {logging_mixin.py:104} INFO - [2021-07-22 02:13:24,298] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:13:24,315] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.584 seconds
+[2021-07-22 02:13:55,190] {scheduler_job.py:182} INFO - Started process (PID=49434) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:13:55,191] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:13:55,192] {logging_mixin.py:104} INFO - [2021-07-22 02:13:55,192] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:13:55,237] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:13:55,672] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:13:55,726] {logging_mixin.py:104} INFO - [2021-07-22 02:13:55,725] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:13:55,750] {logging_mixin.py:104} INFO - [2021-07-22 02:13:55,750] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:13:55,759] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.572 seconds
+[2021-07-22 02:14:26,639] {scheduler_job.py:182} INFO - Started process (PID=49472) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:14:26,641] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:14:26,642] {logging_mixin.py:104} INFO - [2021-07-22 02:14:26,642] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:14:26,681] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:14:27,137] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:14:27,158] {logging_mixin.py:104} INFO - [2021-07-22 02:14:27,157] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:14:27,169] {logging_mixin.py:104} INFO - [2021-07-22 02:14:27,169] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:14:27,176] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.540 seconds
+[2021-07-22 02:14:58,067] {scheduler_job.py:182} INFO - Started process (PID=49509) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:14:58,069] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:14:58,069] {logging_mixin.py:104} INFO - [2021-07-22 02:14:58,069] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:14:58,109] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:14:58,500] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:14:58,519] {logging_mixin.py:104} INFO - [2021-07-22 02:14:58,519] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:14:58,531] {logging_mixin.py:104} INFO - [2021-07-22 02:14:58,531] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:14:58,546] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.482 seconds
+[2021-07-22 02:15:29,520] {scheduler_job.py:182} INFO - Started process (PID=49549) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:15:29,521] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:15:29,522] {logging_mixin.py:104} INFO - [2021-07-22 02:15:29,522] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:15:29,567] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:15:29,996] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:15:30,015] {logging_mixin.py:104} INFO - [2021-07-22 02:15:30,014] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:15:30,027] {logging_mixin.py:104} INFO - [2021-07-22 02:15:30,026] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:15:30,034] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.517 seconds
+[2021-07-22 02:16:00,976] {scheduler_job.py:182} INFO - Started process (PID=49617) to work on /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:16:00,978] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/user_processing.py for tasks to queue
+[2021-07-22 02:16:00,979] {logging_mixin.py:104} INFO - [2021-07-22 02:16:00,979] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:16:01,034] {logging_mixin.py:104} WARNING - /home/airflow/sandbox/lib/python3.8/site-packages/airflow/providers/sqlite/operators/sqlite.py:25 DeprecationWarning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the`default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2021-07-22 02:16:01,527] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/airflow/airflow/dags/user_processing.py
+[2021-07-22 02:16:01,549] {logging_mixin.py:104} INFO - [2021-07-22 02:16:01,549] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-07-22 02:16:01,563] {logging_mixin.py:104} INFO - [2021-07-22 02:16:01,563] {dag.py:2305} INFO - Setting next_dagrun for user_processing to 2020-01-01T00:00:00+00:00
+[2021-07-22 02:16:01,582] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/user_processing.py took 0.612 seconds

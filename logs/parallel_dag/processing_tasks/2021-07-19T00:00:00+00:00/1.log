@@ -1,0 +1,24 @@
+[2021-07-20 00:00:04,750] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: parallel_dag.processing_tasks 2021-07-19T00:00:00+00:00 [queued]>
+[2021-07-20 00:00:04,787] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: parallel_dag.processing_tasks 2021-07-19T00:00:00+00:00 [queued]>
+[2021-07-20 00:00:04,788] {taskinstance.py:1067} INFO - 
+--------------------------------------------------------------------------------
+[2021-07-20 00:00:04,788] {taskinstance.py:1068} INFO - Starting attempt 1 of 1
+[2021-07-20 00:00:04,789] {taskinstance.py:1069} INFO - 
+--------------------------------------------------------------------------------
+[2021-07-20 00:00:04,804] {taskinstance.py:1087} INFO - Executing <Task(SubDagOperator): processing_tasks> on 2021-07-19T00:00:00+00:00
+[2021-07-20 00:00:04,808] {standard_task_runner.py:52} INFO - Started process 47613 to run task
+[2021-07-20 00:00:04,817] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'parallel_dag', 'processing_tasks', '2021-07-19T00:00:00+00:00', '--job-id', '150', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/parallel_dag.py', '--cfg-path', '/tmp/tmp3yv57892', '--error-file', '/tmp/tmptwe5k6k6']
+[2021-07-20 00:00:04,819] {standard_task_runner.py:77} INFO - Job 150: Subtask processing_tasks
+[2021-07-20 00:00:04,902] {logging_mixin.py:104} INFO - Running <TaskInstance: parallel_dag.processing_tasks 2021-07-19T00:00:00+00:00 [running]> on host airflowvm
+[2021-07-20 00:00:05,024] {taskinstance.py:1280} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=parallel_dag
+AIRFLOW_CTX_TASK_ID=processing_tasks
+AIRFLOW_CTX_EXECUTION_DATE=2021-07-19T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-07-19T00:00:00+00:00
+[2021-07-20 00:00:05,072] {subdag.py:155} INFO - Created DagRun: scheduled__2021-07-19T00:00:00+00:00
+[2021-07-20 00:01:05,161] {base.py:243} INFO - Success criteria met. Exiting.
+[2021-07-20 00:01:05,180] {subdag.py:169} INFO - Execution finished. State is success
+[2021-07-20 00:01:05,207] {taskinstance.py:1184} INFO - Marking task as SUCCESS. dag_id=parallel_dag, task_id=processing_tasks, execution_date=20210719T000000, start_date=20210720T000004, end_date=20210720T000105
+[2021-07-20 00:01:05,290] {taskinstance.py:1245} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-07-20 00:01:05,307] {local_task_job.py:151} INFO - Task exited with return code 0
